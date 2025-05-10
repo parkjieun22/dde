@@ -94,9 +94,18 @@
   }
   .visual_title {
     width: 70vw;
+    font-size: 12vw;
+    margin-top: 80px;
   }
-  .visual_title .v_title3 {
-    bottom: 16vw;
+  .visual_title .v_title1 {
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
+  }
+  .visual_title .v_title2 {
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
   /* 메인 비주얼 이미지 */
   .back_shape {
@@ -104,7 +113,7 @@
   }
   .shape_1 {
     width: 50vw;
-    top: 31vh;
+    top: 22vh;
     left: 25vw;
   }
   .shape_2 {
@@ -279,32 +288,26 @@
   .visual {
     height: 85vh;
   }
+
   .visual_title {
+    width: 70vw;
     font-size: 12vw;
-    width: 90vw;
-    top: 200px;
-    text-align: center;
+    margin-top: 25vh;
   }
   .visual_title .v_title1 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
   .visual_title .v_title2 {
-    position: static;
-    margin-top: 0;
-    height: fit-content;
-    margin-bottom: 20px;
-  }
-  .visual_title .v_title3 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
 
   /* 메인 비주얼 이미지 */
   .back_shape {
-    top: -85vh;
+    top: -60vh;
   }
   .back_shape
     > div:not(.shape_1, .shape_13, .shape_14, .shape_15, .shape_16, .shape_17) {
@@ -470,32 +473,25 @@
     height: 75vh;
   }
   .visual_title {
-    font-size: 16vw;
-    width: 90vw;
-    top: 200px;
-    text-align: center;
+    width: 70vw;
+    font-size: 18vw;
+    margin-top: 20vh;
   }
   .visual_title .v_title1 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
   .visual_title .v_title2 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
-    height: fit-content;
-  }
-  .visual_title .v_title3 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
 
   /* 메인 비주얼 이미지 */
   .back_shape {
     height: 100vh;
-    top: -85vh;
+    top: -70vh;
   }
 
   .back_shape
@@ -512,7 +508,7 @@
   }
   .shape_1 {
     width: 110vw;
-    top: 17vh;
+    top: 30vh;
     left: -7vw;
   }
   .shape_13 {
@@ -734,26 +730,19 @@
     height: 65vh;
   }
   .visual_title {
-    font-size: 16vw;
-    width: 90vw;
-    top: 200px;
-    text-align: center;
+    width: 70vw;
+    font-size: 18vw;
+    margin-top: 20vh;
   }
   .visual_title .v_title1 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
   .visual_title .v_title2 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
-    height: fit-content;
-  }
-  .visual_title .v_title3 {
-    position: static;
-    margin-top: 0;
-    margin-bottom: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
+    text-align: center;
   }
 
   /* 메인 비주얼 이미지 */
@@ -775,7 +764,7 @@
   }
   .shape_1 {
     width: 120vw;
-    top: 30vh;
+    top: 45vh;
     left: -11vw;
   }
   .shape_13 {
